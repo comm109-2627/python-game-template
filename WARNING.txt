@@ -1,1 +1,1 @@
-WARNING: Automated branch.
+WARNING: This is an automated branch. Do not work here.
